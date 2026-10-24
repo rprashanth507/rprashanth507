@@ -96,7 +96,6 @@ Big data ETL pipeline using Hadoop and Spark.
 ## 📫 Let's Connect
 
 - 📧 [rprashanth0012@gmail.com](mailto:rprashanth0012@gmail.com)
-- 📞 214-940-2837
 - 💼 [LinkedIn](https://www.linkedin.com/in/prash012/)
 - 🌐 [Portfolio](https://rprashanth507.github.io/portfolio/)
 - 📍 Dallas, TX · Open to Relocate
