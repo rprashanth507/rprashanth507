@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Prashanth Reddy 👋</h1>
 
 <p align="center">
-  <strong>Data Engineer · Data & AI Engineer · Analytics</strong><br/>
+  <strong> Data & AI Engineer · Analytics</strong><br/>
   Dallas, TX · Open to Relocate &nbsp;|&nbsp;
   <a href="mailto:rprashanth0012@gmail.com">rprashanth0012@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/prash012/">LinkedIn</a> &nbsp;|&nbsp;
