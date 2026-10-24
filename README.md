@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-Data Engineer with **3+ years of experience** building ETL pipelines, data models, and cloud data solutions across healthcare and financial services. Currently a **Data & AI Engineer at FBS Group**, building a retirement solutions platform on AWS with Amazon Bedrock, Temporal orchestration, and tenant-isolated PII storage.
+Data Engineer with **3+ years of experience** building ETL pipelines, data models, and cloud data solutions across healthcare and financial services. Currently a **Data & AI Engineer at FBS Group**, building a retirement solutions platform on AWS, Temporal orchestration, with tenant-isolated PII storage.
 
 Previously at **IQVIA**, where I led database operations supporting **$3M in revenue**, migrated a big data ETL pipeline from SSIS to Hadoop reducing runtime by **60.5%** (38h → 15h), and processed up to **2 TB of data**. M.S. Business Analytics & AI from UT Dallas (GPA 3.92).
 
